@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "575596687532",
+    "firebase_url": "https://flutter-f4c4d.firebaseio.com",
+    "project_id": "flutter-f4c4d",
+    "storage_bucket": "flutter-f4c4d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:575596687532:android:8c97c6c1e0893c3e536f09",
+        "android_client_info": {
+          "package_name": "com.example.flore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "575596687532-6dj17sduqi7bg63et2ib54m0gmsctvhq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flore",
+            "certificate_hash": "26a486350d4c811a6e8b2c6a4be70ffb0fa8e5a9"
+          }
+        },
+        {
+          "client_id": "575596687532-fhfl19irb5t6ulbfrsv8s9q87th9r4ep.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-5JtLTQUFey9Yearnmz6EVgvs__Z50k8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "575596687532-fhfl19irb5t6ulbfrsv8s9q87th9r4ep.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
